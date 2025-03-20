@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @xjr64x
-- 🌱 I’m currently still learning the basics of coding.
-- 📫 I will be making projects using the languages I'm currently learning, feel free to offer any advice.
-- ⚡ Fun fact: I'm trying to start on a portfolio already.
+- 
