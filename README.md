@@ -1,2 +1,2 @@
--👋 Hi, I’m @xjr64x
+- 👋 Hi, I’m @xjr64x
 - I work with ML and AI systems. I also do full stack development.
